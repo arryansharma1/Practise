@@ -1,6 +1,6 @@
 int getSecondLargest(int *a, int n) {
     // code here
-    int x,i,j,max1=-1,max2=-1,count=0;
+    int i,max1=-1,max2=-1;
     if(n>=2)
     {    if(a[0]>a[1])
         {
