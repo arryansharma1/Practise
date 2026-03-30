@@ -10,11 +10,12 @@ class Solution {
                 x=x*10+z%10;
                 z=z/10;
             }
+            z=n;
             for(i=1;i<=x;i++)
             {
                 if(x>=2)
                 {
-                    z=n*n;
+                    z=z*n;
                 }
                 else
                 {
