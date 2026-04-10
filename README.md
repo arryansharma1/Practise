@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧬 About This Repository
@@ -37,8 +35,6 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 
 <br clear="right"/>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Goals
@@ -50,8 +46,6 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 | Tackle diverse problems from Easy → Hard | Deep-dive into Arrays, Trees, Graphs, DP & more | Daily practice — logged and tracked |
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -70,8 +64,6 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 <br/>
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -99,8 +91,6 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
     └── 📁 segment-trees/
 ```
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Languages Used
@@ -116,8 +106,6 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 <br/>
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -148,8 +136,6 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Getting Started
@@ -167,8 +153,6 @@ cd Easy/arrays
 # 🏃 Run a solution (C++ example)
 g++ solution.cpp -o solution && ./solution
 ```
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
