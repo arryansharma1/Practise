@@ -9,8 +9,8 @@
 <br/><br/>
 
 [![Profile](https://img.shields.io/badge/GitHub-arryansharma1-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/arryansharma1)
-![Repo Size](https://img.shields.io/github/repo-size/arryansharma1/Practise?color=7c3aed&labelColor=0d1117&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/arryansharma1/Practise?color=f59e0b&labelColor=0d1117&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/arryansharma1/DSA-Grind?color=7c3aed&labelColor=0d1117&style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/arryansharma1/DSA-Grind?color=f59e0b&labelColor=0d1117&style=for-the-badge)
 
 <br/>
 
@@ -75,7 +75,7 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/arryansharma1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ArryanSharma/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/arryansharma1)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/arryansharma1)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arryansharma1)
@@ -90,7 +90,7 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 ## 🗂️ Repository Structure
 
 ```
-📦 dsa-practice/
+📦 DSA-Grind/
 │
 ├── 🟢 Easy/          ← "I got this." (you got this)
 │   ├── 📁 arrays/
@@ -168,10 +168,10 @@ Problems are organized by **difficulty level** — making it easy to navigate, r
 
 ```bash
 # 📥 Clone the repository (and inherit my struggles)
-git clone https://github.com/arryansharma1/dsa-practice.git
+git clone https://github.com/arryansharma1/DSA-Grind.git
 
 # 📂 Navigate into the folder
-cd dsa-practice
+cd DSA-Grind
 
 # 🟢 Browse by difficulty (start Easy, I beg you)
 cd Easy/arrays
